@@ -5,7 +5,7 @@
 Replace the Project Title
 
 ### Description
-Describe what your project is about and what it does
+Analyzing the bike share data for three states in USA (NY, Chicago and Washington)
 
 ### Files used
 Include the files used
