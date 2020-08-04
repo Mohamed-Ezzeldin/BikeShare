@@ -5,7 +5,8 @@ Aug. 4th 2020
 Replace the Project Title
 
 ### Description
-Describe what your project is about and what it does
+I used Python to explore data related to bike share systems for three cities in the United States,
+Which is New York City, Chicago, and Washington, to find out useful information can be exracted from this data.
 
 ### Files used
 Include the files used
