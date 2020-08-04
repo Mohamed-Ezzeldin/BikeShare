@@ -10,9 +10,9 @@ Which is New York City, Chicago, and Washington, to find out useful information 
 
 ### Files used
 I used the files below but I coudn't uplod it because it's too large
-washington.csv
-new_york_city.csv
-chicago.csv
+washington.csv -> https://www.capitalbikeshare.com/system-data
+new_york_city.csv -> https://www.citibikenyc.com/system-data
+chicago.csv -> https://www.divvybikes.com/system-data
 
 ### Credits
 The original repo that this project is forked from can be found here:
